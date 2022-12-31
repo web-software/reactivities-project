@@ -477,7 +477,7 @@ $RECYCLE.BIN/
 *.lnk
 
 # SQL-Lite
-reactivities.db*
+reactivities.db-*
 
 # App Settings
 appsettings.json
