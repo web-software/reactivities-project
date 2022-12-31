@@ -478,3 +478,6 @@ $RECYCLE.BIN/
 
 # SQL-Lite
 reactivities.db*
+
+# App Settings
+appsettings.json
